@@ -6,6 +6,6 @@
 <head>
 </head>
 <body>
-<iframe src="/Os-/interfaz.html"
+<iframe src="/Os-/interfaz.html" style="min-height:97vh"><iframe>
 </body>
 </html>
