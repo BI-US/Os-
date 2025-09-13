@@ -1,3 +1,6 @@
+
+[![Deploy static content to Pages](https://github.com/BI-US/Os-/actions/workflows/static.yml/badge.svg)](https://github.com/BI-US/Os-/actions/workflows/static.yml)
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
